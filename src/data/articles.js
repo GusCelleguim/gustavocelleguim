@@ -166,8 +166,8 @@ function article_2() {
 		</p>
 
 		<ol>
-			
-		<li a href ="https://www.youtube.com/watch?v=BgzRGat8WfE">
+
+		<li <a href ="https://www.youtube.com/watch?v=BgzRGat8WfE">
 			Obsidian para Iniciantes - Vladimir Campos (recomendo o canal dele ensina bastante sobre a ferramenta)
 		</li>
 
